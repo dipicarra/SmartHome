@@ -1,0 +1,52 @@
+Image credits
+
+living-room.jpg:
+	Image By freepik
+	<a href="https://www.freepik.com/free-ai-image/interior-space-decorated-boho-style_65558297.htm#page=2&query=modern%20living%20room&position=38&from_view=search&track=ais">Image By freepik</a>
+
+kitchen.jpg:
+	Image by wuttichai1983 on Freepik
+	<a href="https://www.freepik.com/free-photo/modern-white-kitchen-countertop-with-free-space_30896223.htm#page=6&query=kitchen%20wallpaper&position=44&from_view=keyword&track=ais&uuid=553c4fc1-f8c3-464a-86cf-ead05cb26073">Image by wuttichai1983</a> on Freepik
+  
+bedroom.jpg:
+Free Stock photos by Vecteezy
+<a href="https://www.vecteezy.com/photo/27940890-stunning-contemporary-interior-design-for-home-and-hotel-bedrooms-with-incredible-nocturnal-city-views">Free Stock photos by Vecteezy</a>
+
+bathroom.jpg:
+Free Stock photos by Vecteezy
+<a href="https://www.vecteezy.com/photo/27940890-stunning-contemporary-interior-design-for-home-and-hotel-bedrooms-with-incredible-nocturnal-city-views">Free Stock photos by Vecteezy</a>
+
+office.jpg:
+	Photo by ergonofis on Unsplash
+	Photo by <a href="https://unsplash.com/@ergonofis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">ergonofis</a> on <a href="https://unsplash.com/photos/a-desk-with-a-laptop-on-it-in-front-of-a-window-tdnYk4qOGhc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+groceries-background-1.jpg: 
+	Photo by Herry Sutanto on Unsplash
+	Photo by <a href="https://unsplash.com/@sutanto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Herry Sutanto</a> on <a href="https://unsplash.com/photos/assorted-bread-in-wicker-baskets-SU4fLpg2zgw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+groceries-background-2.jpg: 
+	Photo by Kenny Eliason on Unsplash
+	Photo by <a href="https://unsplash.com/@neonbrand?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kenny Eliason</a> on <a href="https://unsplash.com/photos/assorted-drinks-on-white-commercial-refrigerator-SvhXD3kPSTY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
+groceries-background-3.jpg: 
+	Photo by Raul Gonzalez Escobar on Unsplash
+	Photo by <a href="https://unsplash.com/@ragonesco?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Raul Gonzalez Escobar</a> on <a href="https://unsplash.com/photos/assorted-fruits-on-brown-wooden-rack-ZpIskW1Tuvc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+lidil-logo.png & lidil-banner.png:
+	Altered version of the logo of the supermarket chain Lidl
+
+maxipreco-logo.png & maxipreco-banner.png:
+	Altered version of the logo of the supermarket chain Minipreço
+  
+osilo-logo.png & osilo-banner.png:
+	Altered version of the logo of the stores chain Celeiro
+
+pingosalgado-logo.png & pingosalgado-banner.png:
+	Altered version of the logo of the supermarket chain Pingo Doce
+
+pangaea-logo.png & pangaea-banner.png:
+	Altered version of the logo of the supermarket chain Continente
+
+All others:
+	Created by us or AI-generated.
